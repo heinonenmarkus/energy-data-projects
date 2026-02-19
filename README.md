@@ -41,6 +41,12 @@ This repository contains two small Python + Pandas projects focused on cleaning 
 - Weekday and weekend averages
 - Line plot of hourly load profile
 
+## Screenshots
+
+### Project 2: Hourly load profile
+![Hourly load profile](screenshots/plot.png)
+
+
 ---
 
 ## Requirements
